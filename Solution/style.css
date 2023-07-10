@@ -101,4 +101,7 @@ h2 {
 
 .welcome p {
     text-align: center;
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+    font-style: italic;
 }
